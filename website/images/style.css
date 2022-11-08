@@ -1,0 +1,411 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.clr {
+    clear: both;
+}
+
+header {
+    align-items: center;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar li {
+    display: inline;
+    padding: 0 30px;
+    font-size: 20px;
+}
+
+.span {
+    position: relative;
+    bottom: 13px;
+    left: 3px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.navbar button {
+    padding: 5px 15px;
+    border-radius: 100;
+    background-color: #fc5d35;
+    font-size: 14px;
+    color: white;
+    border: none;
+}
+
+
+a {
+    color: rgb(80, 76, 76);
+    text-decoration: none;
+}
+
+#boxs {
+    margin-top: 130px;
+}
+
+.box {
+    width: 50%;
+    float: left;
+}
+
+.box h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 50px;
+}
+
+.box p {
+    font-style: italic;
+    font-size: 18px;
+}
+
+
+
+.box img {
+    padding-left: 100px;
+    width: 100%;
+}
+
+.btn {
+    background-color: #fc5d35;
+    padding: 10px 35px;
+    color: #f7f7f7;
+    border: 1px solid #fc5d35;
+
+}
+
+.btn:hover {
+    background-color: white;
+    color: #fc5d35;
+    border: 1px solid #fc5d35;
+}
+
+
+.btn1 {
+    background-color: #000000;
+    padding: 10px 35px;
+    color: #f7f7f7;
+}
+
+.btn1:hover {
+    background-color: white;
+    color: black;
+   
+}
+
+.center {
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+.fruits {
+    padding-top: 80px;
+    text-align: center;
+}
+
+
+
+.fruit {
+    width: 30%;
+    float: left;
+    border: 1px solid black;
+    margin: 0 18.9px;
+    padding: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fruit h2 {
+    color: coral;
+}
+
+
+.fruit img {
+    width: 40px;
+}
+
+
+.ocean {
+    padding-top: 80px;
+    text-align: center;
+}
+
+
+.foiz {
+    margin: 100px 0;
+}
+
+.oltmish {
+    width: 60%;
+    float: left;
+}
+
+.oltmish p {
+    font-size: 17px;
+}
+
+.qirq {
+    width: 40%;
+    float: left;
+}
+
+
+.img {
+    height: 300px;
+}
+
+
+
+
+
+.qirq img {
+    width: 60%;
+    position: relative;
+    left: 100px;
+}
+
+.kredit {
+    margin-top: 10px;
+}
+
+
+
+.show-case {
+    text-align: center;
+    padding: 160px;
+    margin-top: 50px;
+    background-image: url(./images/SAHID_ZARAFSHON.jpg);
+    background-size: cover;
+    height: 400px;
+    background-position: center;
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+}
+
+
+.testimonial {
+    margin-top: 80px;
+    text-align: center;
+}
+
+
+.form-text {
+    width: 70%;
+    float: left;
+}
+
+.form-group {
+    margin-top: 230px;
+}
+
+.form-text input, textarea {
+    border: none;
+    outline: none;
+    border-bottom: 0.8px solid #252525;
+    width: 90%;
+    margin: 10px 0;
+    display: block;
+    font-size: 18px;
+}
+
+
+.back-images {
+    float: left;
+    width: 30%;
+    background-image: url(../images/orange-dish.png);
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+
+.roman {
+    margin-top: 200px;
+}
+
+.roma {
+    width: 25%;
+    float: left;
+}
+
+
+.roma h2 {
+    color: #444;
+}
+
+.roma li {
+    line-height: 30px;
+    list-style-type: none;
+    color: #777;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+    text-align: center;
+    padding: 30px 0;
+    font-size: 19px;
+    margin-top: 70px;
+    background-color: #514949;;
+    color: #fc5d35;
+}
+
+.roma i {
+    font-size: large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
